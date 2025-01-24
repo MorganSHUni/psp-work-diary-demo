@@ -1,0 +1,23 @@
+20/01/2025
+- Added some functional requirements - see photo3
+
+Overview:
+During Monday's seminar, we discussed the client specification, created the gitHub, and added each other on discord. If any of our group members contact us, we will make a channel, but for now it's just DMs.
+We decided to meet up every friday, from 1-3, in the top level of Cantor, as the computers there should have the right software already installed.
+Billy emailed the missing members of our group, updating them on what we had done.
+I added some functional requirements - see photo3.
+
+Outgoing:
+I plan to finish the functional and non-functional requirements by the end of the week, and hopefully also finish the use cases, users stories, and user personas. If not finish, I'd like to started on them at least.
+I know that Billy was planning on familiarising himself with the software and gitHub, as he hadn't used it before, and I also sent him some of the powerpoints from my lectures so he'd know more about the software development process.
+Unfortunately, we neglected to discuss our tasks for the rest of the week on the monday meeting, so we will have to remember to do this in the future.
+Also planning to make a notion or spreadsheet, along with this log, to note down what we are supposed to be doing.
+
+Morgan:
+- Must Have:
+  - functional requirements
+  - non-functional requirements
+- Should Have:
+  - Use cases
+  - User stories
+  - User personas

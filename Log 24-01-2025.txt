@@ -1,0 +1,19 @@
+24/01/2025 - 13:31
+It's currently 13:31 and Billy has not shown up to the meeting - which was supposted to start at 13:00.
+I've texted him on Discord multiple times - including the room I'm currently in (9310), and he hasn't replied or given me any indication that he's read them.
+I'm going to stay and do the work I planned on, and email him a report of what happened after I'm done.
+I haven't heard anything from the other group mates, so I'm assuming they also aren't coming.
+This lowkey kinda sucks honestly.
+
+I haven't done any work since monday unfortunately, I was working on my personal research/projects, so I'm going to focus on researching the company, completing functional + non-functional requirements, etc.
+
+Morgan:
+- Must Have:
+  - functional requirements
+  - non-functional requirements
+- Should Have:
+  - Use cases
+  - User stories
+  - User personas
+
+13:50 - moving all these files to the proper forked repository
