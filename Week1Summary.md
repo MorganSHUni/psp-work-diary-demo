@@ -1,4 +1,4 @@
-## Week 1 (20/01/2025 - 26/01/2025)
+## Week 1                                                                                              (20/01/2025 - 26/01/2025)
 
 ### Overview
 In the week starting with 20/01/2025, we completed:
