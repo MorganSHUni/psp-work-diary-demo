@@ -3,6 +3,7 @@
 
 ### Overview
 In the week starting with 27/01/2025, we completed:
+- Estabished Notion
 
 we were unable to complete:
 
