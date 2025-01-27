@@ -3,10 +3,10 @@
 
 ### Overview
 In the week starting with 20/01/2025, we completed:
-- Functional requirements (Morgan)
-- Non-Functional requirements (Morgan)
-- Use cases (Billy)
-- User personas (Billy)
+- Functional requirements (task completed by Morgan)
+- Non-Functional requirements (task completed by Morgan)
+- Use cases (task completed by Billy)
+- User personas (task completed by Billy)
 - Established GitHub and Discord
 
 ### Future Planning
