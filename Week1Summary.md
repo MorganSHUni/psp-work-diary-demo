@@ -1,4 +1,3 @@
-# Professional Software Projects Weekly Diary
 ## Week 1
 
 ### Overview
