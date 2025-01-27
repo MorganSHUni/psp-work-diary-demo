@@ -21,7 +21,8 @@ As such, by the end of the week starting with 27/01/2025, we hope to complete:
 - Complete flowchart map of the system (task given to Deeshan)
 
 ### Issues
-We had trouble meeting with our old teammates, and eventually we got reassigned.
-Billy forgot to turn up to our friday 24/01/2024 meeting, but issue was quickly resolved, as we discussed it, and agreed he'd complete the use cases and user personas.
+- We had trouble meeting with our old teammates, and eventually we got reassigned.
+- Billy forgot to turn up to our friday 24/01/2024 meeting, but issue was quickly resolved, as we discussed it, and agreed he'd complete the use cases and user personas.
+- No ongoing issues to resolve.
 
 
