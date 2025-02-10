@@ -13,3 +13,18 @@ By the end of the week starting with 03/02/2025, we hope to complete:
 
 ### Issues
 
+## Week 3 
+(03/02/2025 - 09/02/2025)
+
+### Overview
+In the week starting with 03/02/2025, we completed:
+- Estabished Notion
+
+we were unable to complete:
+
+
+### Future Planning
+By the end of the week starting with 03/02/2025, we hope to complete:
+
+### Issues
+
