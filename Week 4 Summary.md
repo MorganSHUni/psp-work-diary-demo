@@ -8,7 +8,7 @@ In the week starting with 10/02/2025, we completed:
  - (we all agreed that everyone would kinda help out with everything, but this is a general overview of what we will focus on)
 
 ""
- - - security - validation + verification
+ - security - validation + verification
      - deeshan - login page, shared navigation bar
 - html/php pages + front end
      - brandon 
