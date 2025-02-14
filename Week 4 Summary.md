@@ -5,6 +5,7 @@
 In the week starting with 10/02/2025, we completed:
  - Finished wireframe
  - Assigned the following tasks for the sprint week:
+ - (we all agreed that everyone would kinda help out with everything, but this is a general overview of what we will focus on)
 
 ""
  - - security - validation + verification
@@ -18,8 +19,8 @@ In the week starting with 10/02/2025, we completed:
 - c# - MVC controllers
      - morgan - admin: display student info
      - deeshan
+
 ""
-  - we all agreed that everyone would kinda help out with everything, but this is a general overview of what we will focus on
 
 ### Future Planning
 By the end of the week starting with 03/02/2025, we hope to complete:
