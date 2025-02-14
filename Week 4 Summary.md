@@ -23,8 +23,8 @@ In the week starting with 10/02/2025, we completed:
 ""
 
 ### Future Planning
-By the end of the week starting with 03/02/2025, we hope to complete:
- - The tasks outlined above
+By the end of the week starting with 10/02/2025, we hope to complete:
+ - No further tasks needed
 
 ### Issues
 - Not an issue, but everyone showed up to the friday meeting!!! Yay!
