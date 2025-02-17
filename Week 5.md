@@ -18,9 +18,9 @@ Today I:
 Plan to:
 - Research into:
   - asp.net mvc + databases
-	- razor pages
-	- orm
-	- php
+  - razor pages
+  - orm
+  - php
 
 ### Issues
 - Most of our group either showed up late or went home early
