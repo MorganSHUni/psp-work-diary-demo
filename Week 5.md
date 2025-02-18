@@ -1,4 +1,4 @@
-## 17/02/2025
+# 17/02/2025
 ### Overview
 Today I:
 - Created the MVC Framework
@@ -23,4 +23,11 @@ Plan to:
   - php
 
 ### Issues
-- Most of our group either showed up late or went home early
+- Nope
+
+# 18/02/2025
+### Overview
+### Future Planning
+### Issues
+- As I am managing the controllers and models and things for the project, I can't really do anything until everything else is done
+    - So, I'm gonna use this time to get really good my job, tie up any loose ends, and help others if they need me to (i've offered, but everyone said it was fine)
