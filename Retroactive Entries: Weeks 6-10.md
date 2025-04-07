@@ -32,7 +32,12 @@ N/A
 
 ## Week 10 - Sprint Week
 ### Overview
+During Sprint Week, I reconvened with my team, and we discussed what was left for me to do - not much, other people had done the work I was assigned to, and I was kinda just left alone. Upon reviewing the assignment brief I decided I was going to design some tests, as that was something I had brief experience with in the past. As such, I wanted to make it a learning experience and create integration tests this time, as last time i tried to make unit tests. It'd been a while since I last made tests, so I spent most of sprint week familiarising myself with testing with visual studio, making a few beginner tests, and researching more into integration testing.
 
 ### Future Planning
+I planned to spend the next week making the actual tests for the system. I do not know if I will be able to properly test everything, so I have settled on aiming to make 3 integration tests and 3 unit tests for my test suite.
 
 ### Issues
+- As usual, lack of communication with my team.
+- I didn't actually have anything to do for the first 2?-ish days, so I'm behind on my work.
+- Spent more time practising that actually making the tests, a bit worries about the time I have left
